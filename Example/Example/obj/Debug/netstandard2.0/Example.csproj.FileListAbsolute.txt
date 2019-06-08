@@ -1,0 +1,10 @@
+C:\SmartGit\Xam_LV_Eample\Example\Example\bin\Debug\netstandard2.0\Example.deps.json
+C:\SmartGit\Xam_LV_Eample\Example\Example\bin\Debug\netstandard2.0\Example.dll
+C:\SmartGit\Xam_LV_Eample\Example\Example\bin\Debug\netstandard2.0\Example.pdb
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\Example.csprojAssemblyReference.cache
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\Example.csproj.CoreCompileInputs.cache
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\Example.AssemblyInfoInputs.cache
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\Example.AssemblyInfo.cs
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\XamlC.stamp
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\Example.dll
+C:\SmartGit\Xam_LV_Eample\Example\Example\obj\Debug\netstandard2.0\Example.pdb
